@@ -20,3 +20,6 @@ Now describing our approach on how to detect anomalies at scale, by combining th
 3) Using boosting algorithm and deep learning techniques and measure its performance by metrics decided
 4) Predicting on test data
 Real-time analytics is the trend of data industry that has large scale applications in not only in e-commerce industries but also in the health sector as streaming data is future data, and this architecture can be used as a common pipeline for collecting and identifying anomalies with bit changes in algorithms as per domain knowledge on different types of data at large scale in real-time.
+
+
+We submitted but our talk was not selected.
